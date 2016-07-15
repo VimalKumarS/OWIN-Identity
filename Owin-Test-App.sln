@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Owin-Test-App", "Owin-Test-App\Owin-Test-App.csproj", "{6CAB2E64-2C9A-4571-B91F-78BF4AF6E541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TokenbasedAuth", "TokenbasedAuth\TokenbasedAuth.csproj", "{08C001CA-BCB6-429D-8FBC-79EAAD6AE521}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetIdentity", "AspNetIdentity\AspNetIdentity.csproj", "{E67BB23A-DB79-4DFC-8266-E26E96F2D8E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{EFD46E31-9F32-4BC3-A339-C755D4EA92E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{5142F339-82C0-4352-A3DE-2DC1CCA1DACC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication3", "WebApplication3\WebApplication3.csproj", "{3C7245AB-98C1-49CA-B4DF-ED16580C77A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CAB2E64-2C9A-4571-B91F-78BF4AF6E541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAB2E64-2C9A-4571-B91F-78BF4AF6E541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CAB2E64-2C9A-4571-B91F-78BF4AF6E541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAB2E64-2C9A-4571-B91F-78BF4AF6E541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C001CA-BCB6-429D-8FBC-79EAAD6AE521}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C001CA-BCB6-429D-8FBC-79EAAD6AE521}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C001CA-BCB6-429D-8FBC-79EAAD6AE521}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C001CA-BCB6-429D-8FBC-79EAAD6AE521}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E67BB23A-DB79-4DFC-8266-E26E96F2D8E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E67BB23A-DB79-4DFC-8266-E26E96F2D8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E67BB23A-DB79-4DFC-8266-E26E96F2D8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E67BB23A-DB79-4DFC-8266-E26E96F2D8E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFD46E31-9F32-4BC3-A339-C755D4EA92E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFD46E31-9F32-4BC3-A339-C755D4EA92E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFD46E31-9F32-4BC3-A339-C755D4EA92E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFD46E31-9F32-4BC3-A339-C755D4EA92E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5142F339-82C0-4352-A3DE-2DC1CCA1DACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5142F339-82C0-4352-A3DE-2DC1CCA1DACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5142F339-82C0-4352-A3DE-2DC1CCA1DACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5142F339-82C0-4352-A3DE-2DC1CCA1DACC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C7245AB-98C1-49CA-B4DF-ED16580C77A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7245AB-98C1-49CA-B4DF-ED16580C77A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7245AB-98C1-49CA-B4DF-ED16580C77A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7245AB-98C1-49CA-B4DF-ED16580C77A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
